@@ -1,0 +1,58 @@
+@import "../styles/_variables.scss"; // Import your SCSS variables
+
+.countdown-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+  margin-top: 1.5rem;
+}
+
+.countdown-box {
+  width: 90px;
+  height: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: var(--theme-main);
+  color: var(--theme-secondary);
+  font-family: $headings-font-family;
+  font-weight: bold;
+  border-radius: $standard-border-radius;
+  box-shadow: 0px 4px 10px var(--theme-dark-opacity);
+  text-align: center;
+  transition: transform 0.3s ease-in-out;
+
+  &:hover {
+    transform: scale(1.1);
+  }
+
+  .countdown-value {
+    font-size: 2rem;
+    color: var(--theme-highlight);
+  }
+
+  .countdown-label {
+    font-size: 0.9rem;
+    margin-top: 5px;
+    text-transform: uppercase;
+    font-family: $custom-subheadings-font-family;
+    color: var(--theme-secondary-3);
+  }
+}
+
+/** Light Theme Support */
+[data-theme="light"] .countdown-box {
+  background: var(--theme-main-2);
+  color: var(--theme-dark);
+  box-shadow: 0px 4px 10px var(--theme-dark-opacity);
+
+  .countdown-value {
+    color: var(--theme-highlight-3);
+  }
+
+  .countdown-label {
+    color: var(--theme-secondary);
+  }
+}

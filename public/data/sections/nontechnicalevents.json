@@ -1,0 +1,137 @@
+{
+    "locales": {
+        "en": {
+            "title": "Non-tech events",
+            "title_long_prefix": "",
+            "title_long": "**Non-Technical** Events"
+        },
+
+        "es": {
+            "title": "Experiencia",
+            "title_long_prefix": "Resumen de mi",
+            "title_long": "Experiencia **Laboral**"
+        },
+
+        "fr": {
+            "title": "Expérience",
+            "title_long_prefix": "Résumé de mon",
+            "title_long": "Parcours **Professionel**"
+        },
+
+        "ko": {
+            "title": "경험",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**직업적** 경험"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                
+                {
+                    "icon": {
+                        "img": "images/pictures/freefire.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "12/01/2022",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**FREE** FIRE",
+                            "info": "Mobile Gaming",
+                            "text": "<p>Gear up for the ultimate battle in Free Fire, where fast-paced action meets strategic gameplay! Compete in intense battle royale matches, showcase your survival skills, and dominate the battlefield with your squad.</p><ul><li>Battle it out in BR and CS modes</li><li>Form a team of 4 players and strategize your way to victory</li><li>Fair play ensured – No cheats allowed</li>  <li>Experience high-paced action with intense firefights</li>  </ul><p class='mt-3'>Join now and claim your place among the best Free Fire players!</p>","tags": ["Team - 4 Players", "BR MODE", "CS MODE",  "Squad Battle", "No Cheats"]
+                        },
+                        "fr": {
+                            "title": "Développeur **Backend Senior**",
+                            "info": "Apple Inc.",
+                            "text": "<p>Dirigeant une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services d'Apple, en se concentrant sur:</p> <ul><li>Sécurité</li><li>Scalabilité pour gérer des millions d'utilisateurs dans le monde</li><li>Développement d'APIs RESTful</li><li>Optimisation des performances des bases de données avec PostgreSQL</li><li>Création de services avec Swift, PHP et GraphQL</li></ul> <p class='mt-3'>Ensemble, nous assurons que l'infrastructure backend d'Apple reste robuste et efficace.</p>",
+                            "tags": ["Team - 4 Players", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        },
+                        "ko": {
+                            "title": "**수석 백엔드** 개발자",
+                            "info": "애플 주식회사",
+                            "text": "<p>Apple 서비스의 백엔드 솔루션을 설계하고 구현하는 개발 팀을 이끌며, 다음에 중점을 둡니다:</p> <ul><li>보안</li><li>수백만 명의 사용자를 처리할 수 있는 확장성</li><li>RESTful API 개발</li><li>PostgreSQL로 데이터베이스 성능 최적화</li><li>Swift, PHP, GraphQL로 서비스 구축</li></ul> <p class='mt-3'>우리는 함께 Apple의 백엔드 인프라가 견고하고 효율적으로 유지되도록 보장합니다.</p>",
+                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        }
+                    }
+                },{
+                    "icon": {
+                        "img": "images/pictures/bgmi.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "12/01/2022",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**BG**MI",
+                            "info": "Mobile Gaming",
+                          "text": "<p>BattleGrounds Mobile India (BGMI) delivers an intense and action-packed battle royale experience.</p> <ul><li>Team up with your squad</li><li>Plan strategies and adapt</li><li>Master Classic and Arena battles</li><li>Survive and claim victory</li></ul> <p class='mt-3'>Only the strongest and most tactical players will dominate the battleground. Are you ready to drop in?</p>",
+            "tags": ["Team - 4 Players", "Classic Mode", "Arena Mode", "Squad Battle", "No Cheats"] },
+                        "fr": {
+                            "title": "Développeur **Backend Senior**",
+                            "info": "Apple Inc.",
+                            "text": "<p>Dirigeant une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services d'Apple, en se concentrant sur:</p> <ul><li>Sécurité</li><li>Scalabilité pour gérer des millions d'utilisateurs dans le monde</li><li>Développement d'APIs RESTful</li><li>Optimisation des performances des bases de données avec PostgreSQL</li><li>Création de services avec Swift, PHP et GraphQL</li></ul> <p class='mt-3'>Ensemble, nous assurons que l'infrastructure backend d'Apple reste robuste et efficace.</p>",
+                            "tags": ["Team - 4 Players", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        },
+                        "ko": {
+                            "title": "**수석 백엔드** 개발자",
+                            "info": "애플 주식회사",
+                            "text": "<p>Apple 서비스의 백엔드 솔루션을 설계하고 구현하는 개발 팀을 이끌며, 다음에 중점을 둡니다:</p> <ul><li>보안</li><li>수백만 명의 사용자를 처리할 수 있는 확장성</li><li>RESTful API 개발</li><li>PostgreSQL로 데이터베이스 성능 최적화</li><li>Swift, PHP, GraphQL로 서비스 구축</li></ul> <p class='mt-3'>우리는 함께 Apple의 백엔드 인프라가 견고하고 효율적으로 유지되도록 보장합니다.</p>",
+                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                        }
+                    }
+                },{
+                    "icon": {
+                        "img": "images/pictures/amongus.png",
+                        "fa": "",
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "dates": {
+                        "start": "12/01/2022",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**AMONG US**",
+                            "info": "Social Deduction Game",
+                            "text": "<p>Work together with your crewmates to complete tasks—but beware! Impostors are lurking among you.</p> <ul><li>Deception and strategy at its finest</li><li>Find and vote out the impostors</li><li>Complete tasks before it's too late</li><li>Play with friends or online</li></ul> <p class='mt-3'>Will you survive the deception, or will the impostors win?</p>",
+                            "tags": ["Crewmates vs Impostors", "Task Completion", "Deception", "Multiplayer", "No Cheats"]
+                        }
+                    }
+                },{
+                    "icon": {
+                        "img": "images/pictures/squidgame.jpeg",
+                        "fa": "",
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "dates": {
+                        "start": "12/01/2022",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**SQUID**GAME",
+                            "info": "Survival Challenge",
+                            "text": "<p>Compete in a series of intense childhood-inspired games where only the strongest survive.</p> <ul><li>Red Light, Green Light</li><li>Honeycomb Challenge</li><li>Tug of War</li><li>Glass Bridge</li><li>Final Showdown</li></ul> <p class='mt-3'>Do you have what it takes to survive and claim victory?</p>",
+                            "tags": ["Survival", "Elimination", "Mini-Games", "Multiplayer", "No Cheats"]
+                        }
+                    }
+                }
+                
+                
+            ]
+        }
+    ]
+}
