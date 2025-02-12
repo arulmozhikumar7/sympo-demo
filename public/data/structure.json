@@ -17,7 +17,7 @@
         {
             "id": "technicalevents",
             "categoryId": "events",
-            "jsonPath": "/data/sections/skills.json",
+            "jsonPath": "/data/sections/technicalevents.json",
             "faIcon": "fa-solid fa-tools"
         },
 

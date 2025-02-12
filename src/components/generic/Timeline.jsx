@@ -63,7 +63,7 @@ function TimelineItem({item}) {
                     </div>
 
                     <div className={`timeline-content-header-right`}>
-                    <a href="#"><InfoBadge iconName={`faCalendar`} text={"Register Now"}/></a>    
+                    <a href="https://www.google.com" target="_blank"><InfoBadge iconName={``} text={"Register Now"}/></a>    
                     </div>
                 </header>
 

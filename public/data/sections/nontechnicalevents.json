@@ -46,8 +46,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**FREE** FIRE",
-                            "info": "Mobile Gaming",
+                            "title": "CLASH OF **RADIANTS**",
+                            "info": "Free Fire",
                             "text": "<p>Gear up for the ultimate battle in Free Fire, where fast-paced action meets strategic gameplay! Compete in intense battle royale matches, showcase your survival skills, and dominate the battlefield with your squad.</p><ul><li>Battle it out in BR and CS modes</li><li>Form a team of 4 players and strategize your way to victory</li><li>Fair play ensured – No cheats allowed</li>  <li>Experience high-paced action with intense firefights</li>  </ul><p class='mt-3'>Join now and claim your place among the best Free Fire players!</p>","tags": ["Team - 4 Players", "BR MODE", "CS MODE",  "Squad Battle", "No Cheats"]
                         },
                         "fr": {
@@ -75,8 +75,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**BG**MI",
-                            "info": "Mobile Gaming",
+                            "title": "CLASH OF **RADIANTS**",
+                            "info": "BGMI",
                           "text": "<p>BattleGrounds Mobile India (BGMI) delivers an intense and action-packed battle royale experience.</p> <ul><li>Team up with your squad</li><li>Plan strategies and adapt</li><li>Master Classic and Arena battles</li><li>Survive and claim victory</li></ul> <p class='mt-3'>Only the strongest and most tactical players will dominate the battleground. Are you ready to drop in?</p>",
             "tags": ["Team - 4 Players", "Classic Mode", "Arena Mode", "Squad Battle", "No Cheats"] },
                         "fr": {
@@ -92,40 +92,120 @@
                             "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
                         }
                     }
-                },{
+                },     {
+                    "icon": {
+                        "img": "images/pictures/valorant.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "12/01/2022",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "CLASH OF **RADIANTS**",
+                            "info": "Valorant",
+                            "text": "<p>Step into the world of Valorant, the ultimate tactical shooter where precision and strategy determine the victor! Compete in intense 2v2 Swift Play matches, showcase your skills, and advance through the brackets.</p><ul><li>Use your own devices as the event is held online</li><li>Any rank can participate</li><li>Game mode: Swift Play</li><li>Teams of 2 players allowed</li><li>If a team member withdraws or is unavailable, the team is disqualified</li><li>First team to win 5 out of 9 rounds wins the match</li><li>Defeated teams are eliminated and cannot re-enter</li><li>Winning teams advance to the next bracket</li><li>No cheats or hacks allowed – Fair play is mandatory</li><li>Only one site is executable, and players must adhere to pre-match rules</li></p>",
+                            "tags": ["Team - 2 Players", "Swift Play", "Online Tournament", "No Cheats", "Bracket Elimination"]
+                        }
+                    }
+                },
+                {
                     "icon": {
                         "img": "images/pictures/amongus.png",
                         "fa": "",
-                        "faColors": { "bg": null, "fill": null }
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
                     },
                     "dates": {
-                        "start": "12/01/2022",
-                        "end": "now"
+                        "start": "TBD",
+                        "end": "TBD"
                     },
                     "locales": {
                         "en": {
-                            "title": "**AMONG US**",
-                            "info": "Social Deduction Game",
-                            "text": "<p>Work together with your crewmates to complete tasks—but beware! Impostors are lurking among you.</p> <ul><li>Deception and strategy at its finest</li><li>Find and vote out the impostors</li><li>Complete tasks before it's too late</li><li>Play with friends or online</li></ul> <p class='mt-3'>Will you survive the deception, or will the impostors win?</p>",
-                            "tags": ["Crewmates vs Impostors", "Task Completion", "Deception", "Multiplayer", "No Cheats"]
+                            "title": "**Crewmates** and Conspiracies",
+                            "info": "Among us",
+                            "text": "<p>A thrilling tournament combining digital and real-world gameplay, testing deception, strategy, and teamwork.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1: Classic Mode (Mobile/PC)</strong></li>\n<li>Platform: Mobile/PC (Players must have the game installed)</li>\n<li>Game Mode: Crewmates vs Impostors</li>\n<li>Game Time: 10-15 minutes per sub-round</li>\n<li>Winning Conditions:\n<ul>\n<li>Crewmates win by completing tasks or ejecting all impostors.</li>\n<li>Impostors win by eliminating crewmates or sabotaging the mission.</li>\n</ul>\n</li>\n<li>Advancement: Top players based on scores qualify for Round 2.</li>\n</ul>\n\n<ul>\n<li><strong>Round 2: Real-World Among Us</strong></li>\n<li>Platform: Physical game, no mobile/PC required.</li>\n<li>Game Time: 1 hour (Meetings every 10 minutes)</li>\n<li>Gameplay:\n<ul>\n<li>Crewmates complete real-world mini-games as tasks.</li>\n<li>Impostors secretly eliminate crewmates.</li>\n<li>Voting meetings every 10 minutes to discuss and vote out impostors.</li>\n</ul>\n</li>\n<li>Winning Criteria:\n<ul>\n<li>All impostors caught → Top 3 highest-scoring players win.</li>\n<li>Impostor(s) survive → They take top positions based on count.</li>\n</ul>\n</li>\n</ul>\n\n<strong>Rules & Regulations:</strong>\n<ul>\n<li><strong>Registration:</strong> Players must register individually.</li>\n<li><strong>Round 1 Rules:</strong> No external communication, fair play required.</li>\n<li><strong>Round 2 Rules:</strong> Players must follow real-world game mechanics and participate in discussions.</li>\n<li>Eliminated players must stop playing immediately.</li>\n<li>Time management is crucial for task completion.</li>\n</ul>",
+                            "tags": ["Gaming", "Strategy", "Deception", "Teamwork", "Competition"]
                         }
                     }
-                },{
+                }
+                
+                ,
+                {
                     "icon": {
                         "img": "images/pictures/squidgame.jpeg",
                         "fa": "",
-                        "faColors": { "bg": null, "fill": null }
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
                     },
                     "dates": {
-                        "start": "12/01/2022",
-                        "end": "now"
+                        "start": "TBD",
+                        "end": "TBD"
                     },
                     "locales": {
                         "en": {
-                            "title": "**SQUID**GAME",
-                            "info": "Survival Challenge",
-                            "text": "<p>Compete in a series of intense childhood-inspired games where only the strongest survive.</p> <ul><li>Red Light, Green Light</li><li>Honeycomb Challenge</li><li>Tug of War</li><li>Glass Bridge</li><li>Final Showdown</li></ul> <p class='mt-3'>Do you have what it takes to survive and claim victory?</p>",
-                            "tags": ["Survival", "Elimination", "Mini-Games", "Multiplayer", "No Cheats"]
+                            "title": "**Squid** Game",
+                            "info": "Survival-Based Individual Event",
+                            "text": "<p>A thrilling elimination-style event with three intense rounds.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1:</strong> Carousel Game – Move in a circle while music plays and form groups as per the announced number.</li>\n<li><strong>Round 2:</strong> Red Light, Green Light – Move forward on 'Green Light' and freeze on 'Red Light'. Late movers are eliminated.</li>\n<li><strong>Round 3:</strong> Surprise Round – Details revealed at the event.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Individual event (No teams).</li>\n<li>Each player assigned a unique number.</li>\n<li>Majority can vote to suspend a game.</li>\n<li>Misbehavior leads to elimination.</li>\n<li>Judges' decisions are final.</li>\n</ul>",
+                            "tags": ["Survival", "Elimination", "Strategy", "Thrill", "Competition"]
+                        }
+                    }
+                }
+                
+                
+           
+                
+                ,
+                {
+                    "icon": {
+                        "img": "images/pictures/music.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "TBD",
+                        "end": "TBD"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Soundcheck** Showdown",
+                            "info": "Tune Topia",
+                            "text": "<p>A unique competition blending rhythm, strategy, and quick thinking through three exciting rounds.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1:</strong> Melody Match – Identify the song from its BGM within 10 seconds.</li>\n<li><strong>Round 2:</strong> Linguistic Lyricist – Guess the Tamil song from English-translated lyrics.</li>\n<li><strong>Round 3:</strong> Wordy Tunes – Sing songs containing a given word in a relay format.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Team event (2-3 members per team).</li>\n<li>No external help or communication between teams.</li>\n<li>Points based on accuracy and speed.</li>\n<li>No verbal clues or humming allowed.</li>\n<li>Teams involved in malpractice will be disqualified.</li>\n<li>Judges' decisions are final.</li>\n</ul>",
+                            "tags": ["Music", "Guessing", "Lyrics", "Relay", "Competition"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/ipl.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "TBD",
+                        "end": "TBD"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**AUCTION** ARENA",
+                            "info": "A strategic team-based IPL auction game with quiz, bidding, and squad formation.",
+                            "text": "<p><strong>Round 1: IPL Quiz</strong></p>\n\n<ul>\n<li>25 IPL-related questions.</li>\n<li>Top performers advance to Round 2.</li>\n</ul>\n\n<p><strong>Round 2: Team Formation & Auction</strong></p>\n\n<ul>\n<li>Teams of 3 members.</li>\n<li>Each team selects a leader and draws a random team name.</li>\n</ul>\n\n<p><strong>Squad Composition</strong></p>\n\n<ul>\n<li>11 players + 1 impact player.</li>\n<li>Max 4 overseas players.</li>\n<li>Role-specific limits: 4 batsmen, 4 bowlers, 3 all-rounders, 2 wicketkeepers.</li>\n</ul>\n\n<p><strong>Auction Rules</strong></p>\n\n<ul>\n<li>Each team gets ₹60 crore.</li>\n<li>Player base prices: ₹2 crore (Overseas), Varies (Capped Indian), ₹25 lakh (Uncapped Indian).</li>\n<li>Bid increments: ₹25 lakh up to ₹10 crore, ₹50 lakh beyond ₹10 crore.</li>\n<li>Once funds are exhausted, no more bids allowed.</li>\n</ul>\n\n<p><strong>Golden Ticket Rule</strong></p>\n\n<ul>\n<li>Each team gets one Golden Ticket.</li>\n<li>Freezes a bid, making it final.</li>\n<li>One-time use per team.</li>\n</ul>\n\n<p><strong>RTM Card Rule</strong></p>\n\n<ul>\n<li>Each team gets one RTM card.</li>\n<li>Allows matching the highest bid for a previously owned player.</li>\n<li>If used, the team retains the player at the matched price.</li>\n</ul>\n\n<p><strong>Final Scoring & Transparency</strong></p>\n\n<ul>\n<li>Final scores calculated based on player performance stats.</li>\n<li>A password-protected PDF with scores will be shared in the WhatsApp group.</li>\n<li>Teams verify results before finalizing winners.</li>\n<li>Highest-scoring team wins.</li>\n</ul>",
+                            "tags": ["Cricket", "Strategy", "Teamwork", "Auction", "Competition"]
                         }
                     }
                 }
