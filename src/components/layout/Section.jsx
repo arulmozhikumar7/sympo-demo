@@ -150,12 +150,13 @@ function SectionHeader({ section }) {
         <div className={`section-header w-full px-0  text-center ${prefix ? `mt-0` : `mt-1 mt-sm-2 mt-lg-4`}`}>
             {prefix && (
                 <div className={`fw-bold text-muted lead-2 font-family-headings mb-2`}>
-                    <FaIcon className={`me-2 opacity-50`} iconName={'fa-solid fa-cubes'} />
+                    <FaIcon className={`me-2 opacity-50`} iconName={'fa-solid '} />
+
                     <span dangerouslySetInnerHTML={{ __html: prefix || `` }} />
                 </div>
             )}
 
-            <h3 className={`fw-bold ${isBreakpoint('lg') ? 'lead-4' : ''} mx-4 mb-0`}
+            <h3 className={`fw-bold pb-4 ${isBreakpoint('lg') ? 'lead-4' : ''} mx-4 mb-0`}
                 dangerouslySetInnerHTML={{ __html: title }} />
 
             {subtitle && (
