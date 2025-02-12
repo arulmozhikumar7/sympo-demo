@@ -61,7 +61,7 @@ function TimelineItem({ item }) {
                     </div>
 
                     <div className="timeline-content-header-right">
-                        <a href="" target="_blank" rel="noopener noreferrer">
+                        <a href="https://forms.gle/hrL4soGXnvrTgL4h8" target="_blank" rel="noopener noreferrer">
                             <InfoBadge iconName="" text="Register Now" />
                         </a>
                     </div>
