@@ -61,7 +61,7 @@ function TimelineItem({ item }) {
                     </div>
 
                     <div className="timeline-content-header-right">
-                        <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+                        <a href="" target="_blank" rel="noopener noreferrer">
                             <InfoBadge iconName="" text="Register Now" />
                         </a>
                     </div>

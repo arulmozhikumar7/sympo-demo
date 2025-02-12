@@ -9,7 +9,7 @@ function SympoLogo() {
   const canvasHeight = isSmallScreen ? '70vh' : '50vh';
 
   return (
-    <div className="w-screen" style={{ height: canvasHeight }}>
+    <div className="w-screen" style={{ height: '50vh' }}>
       <Canvas
         camera={{ position: [0, 0, 5] }}
         gl={{ alpha: true }}

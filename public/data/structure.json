@@ -7,12 +7,7 @@
             "faIcon": "fa-solid fa-address-card"
         },
 
-        {
-            "id": "Hackathon",
-            "categoryId": "events",
-            "jsonPath": "/data/sections/workshop.json",
-            "faIcon": "fa-solid fa-graduation-cap"
-        },
+        
 
         {
             "id": "technicalevents",
@@ -30,7 +25,12 @@
 
       
 
-       
+        {
+            "id": "Hackathon",
+            "categoryId": "events",
+            "jsonPath": "/data/sections/workshop.json",
+            "faIcon": "fa-solid fa-graduation-cap"
+        },
 
         {
             "id": "contact",

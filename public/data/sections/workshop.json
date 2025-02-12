@@ -1,9 +1,9 @@
 {
     "locales": {
         "en": {
-            "title": "Hackathon",
-            "title_long_prefix": "Workshop",
-            "title_long": "**Hackathon**"
+            "title": "TechFest",
+            "title_long_prefix": "",
+            "title_long": "Tech**Fest**"
         }
     },
 
@@ -15,8 +15,65 @@
             "locales": {},
 
             "items": [
-                
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fas fa-chalkboard-teacher",
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "dates": {
+                        "start": "TBD",
+                        "end": "TBD"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Work**shop",
+                            "info": "A hands-on learning session",
+                            "text": "Event details and registration will be revealed shortly.",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fas fa-laptop-code",
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "dates": {
+                        "start": "TBD",
+                        "end": "TBD"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Hack**athon",
+                            "info": "A competitive coding event",
+                            "text": "Event details and registration will be revealed shortly.",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fas fa-lightbulb",
+                        "faColors": { "bg": null, "fill": "#ffffff" }
+                    },
+                    "dates": {
+                        "start": "TBD",
+                        "end": "TBD"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Project** Expo",
+                            "info": "An innovative showcase",
+                            "text": "Event details and registration will be revealed shortly.",
+                            "tags": []
+                        }
+                    }
+                }
             ]
+            
         }
     ]
 }
