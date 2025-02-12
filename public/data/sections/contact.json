@@ -2,8 +2,8 @@
     "locales": {
         "en": {
             "title": "Contact",
-            "title_long_prefix": "Don't hesitate to",
-            "title_long": "**Contact** Me"
+            "title_long_prefix": "",
+            "title_long": "**Contact** Us"
         },
 
         "es": {
@@ -47,47 +47,16 @@
                 "format": "grid"
             },
             "locales": {
-                "en": {"title": "Or if you **prefer**..."},
+                "en": {"title": ""},
                 "es": {"title": "O si **prefieres**..."},
                 "fr": {"title": "Ou si vous **préférez**..."},
                 "ko": {"title": "또는 **원하시면**..."}
             },
 
             "items": [
-                {
-                    "value": "+1 (123) 456-7890",
-                    "links": [
-                        {"href": "tel:11234567890"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-phone",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Phone"},
-                        "es": {"title": "Teléfono"},
-                        "fr": {"title": "Téléphone"},
-                        "ko": {"title": "전화"}
-                    }
-                },
+               
 
-                {
-                    "value": "mark.choi@email.com",
-                    "links": [
-                        {"href": "mailto:mark.choi@email.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-envelope",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "E-mail"},
-                        "ko": {"title": "이메일"}
-                    }
-                },
-
+          
                 {
                     "value": "@markchoi",
                     "links": [
@@ -104,24 +73,9 @@
                 },
 
                 {
-                    "value": "Mark Choi",
+                    "value": "ozmenta.25",
                     "links": [
-                        {"href": "https://facebook.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-facebook",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Facebook"}
-                    }
-                },
-
-                {
-                    "value": "@markchoi",
-                    "links": [
-                        {"href": "https://instagram.com"}
+                        {"href": "https://instagram.com/ozmenta.25"}
                     ],
                     "icon": {
                         "img": null,
@@ -130,21 +84,6 @@
                     },
                     "locales": {
                         "en": {"title": "Instagram"}
-                    }
-                },
-
-                {
-                    "value": "@markchoi",
-                    "links": [
-                        {"href": "https://tiktok.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-tiktok",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "TikTok"}
                     }
                 }
             ]
