@@ -4,7 +4,7 @@
     "fullScreenButtonEnabled": true,
 
     "preloader": {
-        "enabled": false,
+        "enabled": true,
         "title": "OZMENTA'25",
         "subtitle": "National level Symposium"
     },
