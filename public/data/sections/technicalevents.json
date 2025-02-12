@@ -53,7 +53,7 @@
                         "en": {
                             "title": "The Prompt Arena",
                             "info": "AI Prompt Engineering Competition",
-                            "text": "<p>A fun and challenging competition to test your AI prompt engineering skills across three exciting rounds.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1:</strong> Guess the Prompt – Generate an image matching a given one.</li>\n<li><strong>Round 2:</strong> Prompt Crossword – Solve AI-generated crossword clues.</li>\n<li><strong>Round 3:</strong> Password Challenge – Extract a hidden password from a chatbot.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Individual registration (Max team size: 2)</li>\n<li>Timed rounds (Total duration: 20 mins)</li>\n<li>Highest total score wins</li>\n<li>Judges' decisions are final</li>\n</ul>",
+                            "text": "<p>A fun and challenging competition to test your AI prompt engineering skills across three exciting rounds.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1:</strong> Guess the Prompt – Generate an image matching a given one.</li>\n<li><strong>Round 2:</strong> Prompt Crossword – Solve AI-generated crossword clues.</li>\n<li><strong>Round 3:</strong> Prompt the chatbot to reveal its password.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Individual registration (Max team size: 2)</li>\n<li>Timed rounds (Total duration: 35 mins)</li>\n<li>Highest total score wins</li>\n<li>Judges' decisions are final</li>\n</ul>",
                             "tags": ["AI", "Prompt Engineering", "Crossword", "Chatbot", "Competition"]
                         }
                     }

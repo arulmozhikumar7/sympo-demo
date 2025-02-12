@@ -174,7 +174,29 @@
                             "tags": ["Music", "Guessing", "Lyrics", "Relay", "Competition"]
                         }
                     }
-                },
+                },{
+                    "icon": {
+                        "img": "images/pictures/screen.webp",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "TBD",
+                        "end": "TBD"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Screen** Geeks!",
+                            "info": "Anime Quizz!",
+                            "text": "<p>An anime-themed quiz competition featuring four exciting rounds.</p>\n\n\n\n<strong>Team Structure:</strong>\n<ul>\n<li>2-3 members per team</li>\n<li>Solo players allowed (for the brave otakus!)</li>\n</ul>\n\n<strong>Time Duration:</strong> 45-60 minutes\n\n<strong>Rules & Gameplay:</strong>\n<ul>\n<li><strong>Round 1: Who’s That Character? (Picture Round)</strong>\n<ul>\n<li>Teams guess the anime character from a blurry/silhouette image.</li>\n<li>Faster answers earn bonus points!</li>\n</ul>\n</li>\n<li><strong>Round 2: OP & ED Madness! (Music Round)</strong>\n<ul>\n<li>Listen to 5-10 seconds of an anime opening/ending.</li>\n<li>Guess the anime (extra points for song & artist name)!</li>\n</ul>\n</li>\n<li><strong>Round 3: Fact or Cap? (True or False)</strong>\n<ul>\n<li>A fun round with weird, mind-blowing anime \"facts.\"</li>\n<li>Teams answer TRUE or FALSE before the timer runs out!</li>\n</ul>\n</li>\n<li><strong>Round 4: Showdown! (Buzzer Round)</strong>\n<ul>\n<li>Fast-paced rapid-fire questions.</li>\n<li>Teams hit the buzzer to answer first!</li>\n<li>Wrong answers = -1 point penalty</li>\n</ul>\n</li>\n</ul>\n\n<strong>How to Win?</strong>\n<ul>\n<li>Highest points = Winner</li>\n<li>In case of a tie → Sudden Death Question</li>\n</ul>",
+                            "tags": ["Anime", "Quiz", "Trivia", "Competition", "Otaku"]
+                        }
+                    }
+                }
+,                
                 {
                     "icon": {
                         "img": "images/pictures/ipl.png",
