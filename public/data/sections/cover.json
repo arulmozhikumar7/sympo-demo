@@ -135,8 +135,8 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/sanjay.jpeg",
-                        "fa": null,
+                        "img": null,
+                        "fa": "fa-solid fa-male",
                         "faColors": null
                     },
                     "value": null,
