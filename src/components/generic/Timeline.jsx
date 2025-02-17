@@ -1,5 +1,5 @@
 import "./Timeline.scss"
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { useUtils } from "/src/helpers/utils.js"
 import CircleAvatar from "/src/components/generic/CircleAvatar.jsx"
 import InfoBadge from "/src/components/generic/InfoBadge.jsx"
@@ -13,7 +13,9 @@ function Timeline({ items }) {
     if (!items) {
         return <></>
     }
-
+    useEffect(() => {
+       console.log(items)
+    }, [])
     return (
         <div className="timeline-wrapper">
             <ul className="timeline">
@@ -61,7 +63,7 @@ function TimelineItem({ item }) {
                     </div>
 
                     <div className="timeline-content-header-right">
-                        <a href="https://forms.gle/hrL4soGXnvrTgL4h8" target="_blank" rel="noopener noreferrer">
+                        <a href={item.value} target="_blank" rel="noopener noreferrer">
                             <InfoBadge iconName="" text="Register Now" />
                         </a>
                     </div>

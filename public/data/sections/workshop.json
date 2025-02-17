@@ -25,6 +25,7 @@
                         "start": "TBD",
                         "end": "TBD"
                     },
+                    "value":"https://forms.gle/N9J9uuWeK3hW5Fkc7",
                     "locales": {
                         "en": {
                             "title": "**Work**shop",
@@ -44,13 +45,15 @@
                         "start": "TBD",
                         "end": "TBD"
                     },
+                    "value":"https://forms.gle/3V9pE4H9X549ZwMb7",
                     "locales": {
                         "en": {
-                            "title": "**Hack**athon",
-                            "info": "A competitive coding event",
-                            "text": "Event details and registration will be revealed shortly.",
-                            "tags": []
-                        }
+    "title": "**Hack**athon",
+    "info": "A competitive coding event",
+    "text": "<p><a href='./hackthon_domain_rules.pdf' target='_blank'>Domain Rules - Click here for more details</a></p>\n\n<strong>Categories:</strong>\n<ul>\n<li><a href='./AIML.pdf' target='_blank'>AI & ML</a> - Click here for more details</li>\n<li><a href='/DATA_SCIENCE.pdf' target='_blank'>Data Science</a> - Click here for more details</li>\n<li><a href='WEB_DEVELOPMENT.pdf' target='_blank'>Web Development</a> - Click here for more details</li>\n</ul>",
+    "tags": []
+}
+
                     }
                 },
                 {
@@ -63,13 +66,17 @@
                         "start": "TBD",
                         "end": "TBD"
                     },
+                    "value":"https://unstop.com/p/project-expo-ozmenta25-velammal-engineering-college-vec-chennai-tamil-nadu-1401652",
                     "locales": {
-                        "en": {
-                            "title": "**Project** Expo",
-                            "info": "An innovative showcase",
-                            "text": "Event details and registration will be revealed shortly.",
-                            "tags": []
-                        }
+                 "en": {
+    "title": "**Project** Expo",
+    "info": "An innovative showcase",
+    "href": "https://forms.gle/your-registration-link",
+    "text": "<p>A platform for all engineering disciplines to present innovative software or hardware projects, with an evaluation process and interaction with judges.</p>\n\n<strong>Format:</strong>\n<ul>\n<li>Team size: 1-3 members.</li>\n<li><strong>Round 1:</strong> Single-round evaluation; each team will have 10 minutes to present or demonstrate their project, followed by a Q&A session with the judges.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Teams must register before the deadline.</li>\n<li>Power supply will be provided to all participants.</li>\n<li>Participants must bring their own laptops and required hardware components.</li>\n</ul>\n\n<strong>Judging Criteria:</strong>\n<ul>\n<li>Innovation & Creativity (30%)</li>\n<li>Technical Implementation & Functionality (30%)</li>\n<li>Presentation & Communication (20%)</li>\n<li>Team Collaboration (20%)</li>\n</ul>\n\n<strong>Estimated Duration:</strong>\n<ul>\n<li><strong>Total Duration:</strong> 5 hours (10:00 AM - 03:00 PM IST)</li>\n</ul>",
+    "tags": ["Innovation", "Software", "Hardware", "Engineering", "Project"]
+}
+
+
                     }
                 }
             ]
