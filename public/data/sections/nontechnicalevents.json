@@ -4,24 +4,6 @@
             "title": "Non-tech events",
             "title_long_prefix": "",
             "title_long": "**Non-Technical** Events"
-        },
-
-        "es": {
-            "title": "Experiencia",
-            "title_long_prefix": "Resumen de mi",
-            "title_long": "Experiencia **Laboral**"
-        },
-
-        "fr": {
-            "title": "Expérience",
-            "title_long_prefix": "Résumé de mon",
-            "title_long": "Parcours **Professionel**"
-        },
-
-        "ko": {
-            "title": "경험",
-            "title_long_prefix": "이것은 내",
-            "title_long": "**직업적** 경험"
         }
     },
 
@@ -47,7 +29,7 @@
                         "start": "TBD",
                         "end": "TBD"
                     },
-                    "value":"https://forms.gle/C425JF2cQMzCWTHA7",
+                    "value":"https://forms.gle/C425JF2cQMzCWTHA7", "links":[{"href":"./Free-Fire-Rules.pdf"}],
                     "locales": {
                         "en": {
                             "title": "CLASH OF **RADIANTS**",
@@ -72,12 +54,12 @@
                         "start": "TBD",
                         "end": "TBD"
                     },
-                    "value":"https://forms.gle/hrL4soGXnvrTgL4h8",
+                    "value":"https://forms.gle/hrL4soGXnvrTgL4h8", "links":[{"href":"./BGMI-Rules.pdf"}],
                     "locales": {
                         "en": {
                             "title": "Clash of **Radiants**",
                             "info": "Classic Battle Royale & TDM Competitive Tournament",
-                            "text": "<p>A competitive BGMI tournament featuring Classic Erangel and TDM modes.</p>\n\n<strong>Game Format:</strong>\n<ul>\n<li><strong>Round 1: Classic Mode (Duo)</strong> - Erangel (TPP)\n<ul>\n<li>Top 4 teams qualify for Round 2.</li>\n</ul>\n</li>\n<li><strong>Round 2: TDM</strong>\n<ul>\n<li>Top 4 teams from Round 1 compete.</li>\n</ul>\n</li>\n</ul>\n\n<strong>Rules & Regulations:</strong>\n<ul>\n<li><strong>Eligibility:</strong> Minimum Level 25</li>\n<li><strong>Fair Play:</strong>\n<ul>\n<li>No iPads, Emulators, or Tablets</li>\n<li>No Plugins (Files), Triggers, or Third-party Apps (GFX Tool)</li>\n<li>No Team-Ups</li>\n</ul>\n</li>\n<li><strong>Tiebreakers:</strong>\n<ul>\n<li>Classic Mode: Based on total wins from previous matches</li>\n<li>TDM Mode: In case of ties, 1 player from each team will play a 1v1 match (No Grenades allowed)</li>\n</ul>\n</li>\n<li><strong>Weapon Restrictions (TDM Mode):</strong>\n<ul>\n<li>Only M416, Scar-L, and AUG are allowed</li>\n<li>Grenades are allowed</li>\n</ul>\n</li>\n</ul>",
+                            "text": "<strong>Schedule:</strong> <ul>\n<li>Starts from 10:00 AM </li>\n</p>\n<p><strong>Overview:</strong><p>A competitive BGMI tournament featuring Classic Erangel and TDM modes.</p>\n\n<strong>Game Format:</strong>\n<ul>\n<li><strong>Round 1: Classic Mode (Duo)</strong> - Erangel (TPP)\n<ul>\n<li>Top 4 teams qualify for Round 2.</li>\n</ul>\n</li>\n<li><strong>Round 2: TDM</strong>\n<ul>\n<li>Top 4 teams from Round 1 compete.</li>\n</ul>\n</li>\n</ul>\n\n<strong>Rules & Regulations:</strong>\n<ul>\n<li><strong>Eligibility:</strong> Minimum Level 25</li>\n<li><strong>Fair Play:</strong>\n<ul>\n<li>No iPads, Emulators, or Tablets</li>\n<li>No Plugins (Files), Triggers, or Third-party Apps (GFX Tool)</li>\n<li>No Team-Ups</li>\n</ul>\n</li>\n<li><strong>Tiebreakers:</strong>\n<ul>\n<li>Classic Mode: Based on total wins from previous matches</li>\n<li>TDM Mode: In case of ties, 1 player from each team will play a 1v1 match (No Grenades allowed)</li>\n</ul>\n</li>\n<li><strong>Weapon Restrictions (TDM Mode):</strong>\n<ul>\n<li>Only M416, Scar-L, and AUG are allowed</li>\n<li>Grenades are allowed</li>\n</ul>\n</li>\n</ul>",
                             "tags": ["Gaming", "Battle Royale", "TDM", "Esports", "Competition"]
                         }
                     }
@@ -94,12 +76,12 @@
                     "dates": {
                         "start": "12/01/2022",
                         "end": "now"
-                    },"value":"https://forms.gle/C425JF2cQMzCWTHA7",
+                    },"value":"https://forms.gle/C425JF2cQMzCWTHA7", "links":[{"href":"./Valorant-Rules.pdf"}],
                     "locales": {
                         "en": {
                             "title": "CLASH OF **RADIANTS**",
                             "info": "Valorant",
-                            "text": "<p>Step into the world of Valorant, the ultimate tactical shooter where precision and strategy determine the victor! Compete in intense 2v2 Swift Play matches, showcase your skills, and advance through the brackets.</p><ul><li>Use your own devices as the event is held online</li><li>Any rank can participate</li><li>Game mode: Swift Play</li><li>Teams of 2 players allowed</li><li>If a team member withdraws or is unavailable, the team is disqualified</li><li>First team to win 5 out of 9 rounds wins the match</li><li>Defeated teams are eliminated and cannot re-enter</li><li>Winning teams advance to the next bracket</li><li>No cheats or hacks allowed – Fair play is mandatory</li><li>Only one site is executable, and players must adhere to pre-match rules</li></p>",
+                            "text": "<strong>Schedule:</strong> <ul>\n<li>Starts from 10:00 AM</li>\n</p>\n<p><strong>Overview:</strong><p>Step into the world of Valorant, the ultimate tactical shooter where precision and strategy determine the victor! Compete in intense 2v2 Swift Play matches, showcase your skills, and advance through the brackets.</p><ul><li>Use your own devices as the event is held online</li><li>Any rank can participate</li><li>Game mode: Swift Play</li><li>Teams of 2 players allowed</li><li>If a team member withdraws or is unavailable, the team is disqualified</li><li>First team to win 5 out of 9 rounds wins the match</li><li>Defeated teams are eliminated and cannot re-enter</li><li>Winning teams advance to the next bracket</li><li>No cheats or hacks allowed – Fair play is mandatory</li><li>Only one site is executable, and players must adhere to pre-match rules</li></p>",
                             "tags": ["Team - 2 Players", "Swift Play", "Online Tournament", "No Cheats", "Bracket Elimination"]
                         }
                     }
@@ -116,12 +98,12 @@
                     "dates": {
                         "start": "TBD",
                         "end": "TBD"
-                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8",
+                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8", "links":[{"href":"./Crewmates-and-Conspiracies-Rules.pdf"}],
                     "locales": {
                         "en": {
                             "title": "**Crewmates** and Conspiracies",
                             "info": "Among us",
-                            "text": "<p>A thrilling tournament combining digital and real-world gameplay, testing deception, strategy, and teamwork.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1: Classic Mode (Mobile/PC)</strong></li>\n<li>Platform: Mobile/PC (Players must have the game installed)</li>\n<li>Game Mode: Crewmates vs Impostors</li>\n<li>Game Time: 10-15 minutes per sub-round</li>\n<li>Winning Conditions:\n<ul>\n<li>Crewmates win by completing tasks or ejecting all impostors.</li>\n<li>Impostors win by eliminating crewmates or sabotaging the mission.</li>\n</ul>\n</li>\n<li>Advancement: Top players based on scores qualify for Round 2.</li>\n</ul>\n\n<ul>\n<li><strong>Round 2: Real-World Among Us</strong></li>\n<li>Platform: Physical game, no mobile/PC required.</li>\n<li>Game Time: 1 hour (Meetings every 10 minutes)</li>\n<li>Gameplay:\n<ul>\n<li>Crewmates complete real-world mini-games as tasks.</li>\n<li>Impostors secretly eliminate crewmates.</li>\n<li>Voting meetings every 10 minutes to discuss and vote out impostors.</li>\n</ul>\n</li>\n<li>Winning Criteria:\n<ul>\n<li>All impostors caught → Top 3 highest-scoring players win.</li>\n<li>Impostor(s) survive → They take top positions based on count.</li>\n</ul>\n</li>\n</ul>\n\n<strong>Rules & Regulations:</strong>\n<ul>\n<li><strong>Registration:</strong> Players must register individually.</li>\n<li><strong>Round 1 Rules:</strong> No external communication, fair play required.</li>\n<li><strong>Round 2 Rules:</strong> Players must follow real-world game mechanics and participate in discussions.</li>\n<li>Eliminated players must stop playing immediately.</li>\n<li>Time management is crucial for task completion.</li>\n</ul>",
+                            "text": "<strong>Schedule:</strong> <ul>\n<li>Round 1: 10:30 AM – 11:30 AM</li>\n<li>Round 2: 1:30 PM – 2:30 PM</li>\n</p>\n\n<p><strong>Overview:</strong><p>A thrilling tournament combining digital and real-world gameplay, testing deception, strategy, and teamwork.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1: Classic Mode (Mobile/PC)</strong></li>\n<li>Platform: Mobile/PC (Players must have the game installed)</li>\n<li>Game Mode: Crewmates vs Impostors</li>\n<li>Game Time: 10-15 minutes per sub-round</li>\n<li>Winning Conditions:\n<ul>\n<li>Crewmates win by completing tasks or ejecting all impostors.</li>\n<li>Impostors win by eliminating crewmates or sabotaging the mission.</li>\n</ul>\n</li>\n<li>Advancement: Top players based on scores qualify for Round 2.</li>\n</ul>\n\n<ul>\n<li><strong>Round 2: Real-World Among Us</strong></li>\n<li>Platform: Physical game, no mobile/PC required.</li>\n<li>Game Time: 1 hour (Meetings every 10 minutes)</li>\n<li>Gameplay:\n<ul>\n<li>Crewmates complete real-world mini-games as tasks.</li>\n<li>Impostors secretly eliminate crewmates.</li>\n<li>Voting meetings every 10 minutes to discuss and vote out impostors.</li>\n</ul>\n</li>\n<li>Winning Criteria:\n<ul>\n<li>All impostors caught → Top 3 highest-scoring players win.</li>\n<li>Impostor(s) survive → They take top positions based on count.</li>\n</ul>\n</li>\n</ul>\n\n<strong>Rules & Regulations:</strong>\n<ul>\n<li><strong>Registration:</strong> Players must register individually.</li>\n<li><strong>Round 1 Rules:</strong> No external communication, fair play required.</li>\n<li><strong>Round 2 Rules:</strong> Players must follow real-world game mechanics and participate in discussions.</li>\n<li>Eliminated players must stop playing immediately.</li>\n<li>Time management is crucial for task completion.</li>\n</ul>",
                             "tags": ["Gaming", "Strategy", "Deception", "Teamwork", "Competition"]
                         }
                     }
@@ -140,12 +122,12 @@
                     "dates": {
                         "start": "TBD",
                         "end": "TBD"
-                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8",
+                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8", "links":[{"href":"./SquidGame-Rules.pdf"}],
                     "locales": {
                         "en": {
                             "title": "**Squid** Game",
                             "info": "Survival-Based Individual Event",
-                            "text": "<p>A thrilling elimination-style event with three intense rounds.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1:</strong> Carousel Game – Move in a circle while music plays and form groups as per the announced number.</li>\n<li><strong>Round 2:</strong> Red Light, Green Light – Move forward on 'Green Light' and freeze on 'Red Light'. Late movers are eliminated.</li>\n<li><strong>Round 3:</strong> Surprise Round – Details revealed at the event.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Individual event (No teams).</li>\n<li>Each player assigned a unique number.</li>\n<li>Majority can vote to suspend a game.</li>\n<li>Misbehavior leads to elimination.</li>\n<li>Judges' decisions are final.</li>\n</ul>",
+                            "text": "<strong>Schedule:</strong> <ul>\n<li>Round 1: 10:30 AM - 11:30 AM</li>\n<li>Round 2: 1:30 PM - 2:30 PM</li>\n</p>\n\n<p><strong>Overview:</strong><p>A thrilling elimination-style event with three intense rounds.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1:</strong> Carousel Game – Move in a circle while music plays and form groups as per the announced number.</li>\n<li><strong>Round 2:</strong> Red Light, Green Light – Move forward on 'Green Light' and freeze on 'Red Light'. Late movers are eliminated.</li>\n<li><strong>Round 3:</strong> Surprise Round – Details revealed at the event.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Individual event (No teams).</li>\n<li>Each player assigned a unique number.</li>\n<li>Majority can vote to suspend a game.</li>\n<li>Misbehavior leads to elimination.</li>\n<li>Judges' decisions are final.</li>\n</ul>",
                             "tags": ["Survival", "Elimination", "Strategy", "Thrill", "Competition"]
                         }
                     }
@@ -167,12 +149,12 @@
                     "dates": {
                         "start": "TBD",
                         "end": "TBD"
-                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8",
+                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8", "links":[{"href":"./Sound-Check-Showdown-Rules.pdf"}],
                     "locales": {
                         "en": {
                             "title": "**Soundcheck** Showdown",
                             "info": "Tune Topia",
-                            "text": "<p>A unique competition blending rhythm, strategy, and quick thinking through three exciting rounds.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1:</strong> Melody Match – Identify the song from its BGM within 10 seconds.</li>\n<li><strong>Round 2:</strong> Linguistic Lyricist – Guess the Tamil song from English-translated lyrics.</li>\n<li><strong>Round 3:</strong> Wordy Tunes – Sing songs containing a given word in a relay format.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Team event (2-3 members per team).</li>\n<li>No external help or communication between teams.</li>\n<li>Points based on accuracy and speed.</li>\n<li>No verbal clues or humming allowed.</li>\n<li>Teams involved in malpractice will be disqualified.</li>\n<li>Judges' decisions are final.</li>\n</ul>",
+                            "text": "<strong>Schedule:</strong> <ul>\n<li>Slot 1: 11:00 AM - 12:00 PM</li>\n<li>Slot 2: 1:00 PM - 2:30 PM</li>\n</p>\n\n<p><strong>Overview:</strong><p>A unique competition blending rhythm, strategy, and quick thinking through three exciting rounds.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1:</strong> Melody Match – Identify the song from its BGM within 10 seconds.</li>\n<li><strong>Round 2:</strong> Linguistic Lyricist – Guess the Tamil song from English-translated lyrics.</li>\n<li><strong>Round 3:</strong> Wordy Tunes – Sing songs containing a given word in a relay format.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Team event (2-3 members per team).</li>\n<li>No external help or communication between teams.</li>\n<li>Points based on accuracy and speed.</li>\n<li>No verbal clues or humming allowed.</li>\n<li>Teams involved in malpractice will be disqualified.</li>\n<li>Judges' decisions are final.</li>\n</ul>",
                             "tags": ["Music", "Guessing", "Lyrics", "Relay", "Competition"]
                         }
                     }
@@ -188,12 +170,12 @@
                     "dates": {
                         "start": "TBD",
                         "end": "TBD"
-                    },
+                    }, "links":[{"href":"./Screen-Geeks-Rules.pdf"}],
                     "locales": {
                         "en": {
                             "title": "**Screen** Geeks!",
                             "info": "Anime Quizz!",
-                            "text": "<p>An anime-themed quiz competition featuring four exciting rounds.</p>\n\n\n\n<strong>Team Structure:</strong>\n<ul>\n<li>2-3 members per team</li>\n<li>Solo players allowed (for the brave otakus!)</li>\n</ul>\n\n<strong>Time Duration:</strong> 45-60 minutes\n\n<strong>Rules & Gameplay:</strong>\n<ul>\n<li><strong>Round 1: Who’s That Character? (Picture Round)</strong>\n<ul>\n<li>Teams guess the anime character from a blurry/silhouette image.</li>\n<li>Faster answers earn bonus points!</li>\n</ul>\n</li>\n<li><strong>Round 2: OP & ED Madness! (Music Round)</strong>\n<ul>\n<li>Listen to 5-10 seconds of an anime opening/ending.</li>\n<li>Guess the anime (extra points for song & artist name)!</li>\n</ul>\n</li>\n<li><strong>Round 3: Fact or Cap? (True or False)</strong>\n<ul>\n<li>A fun round with weird, mind-blowing anime \"facts.\"</li>\n<li>Teams answer TRUE or FALSE before the timer runs out!</li>\n</ul>\n</li>\n<li><strong>Round 4: Showdown! (Buzzer Round)</strong>\n<ul>\n<li>Fast-paced rapid-fire questions.</li>\n<li>Teams hit the buzzer to answer first!</li>\n<li>Wrong answers = -1 point penalty</li>\n</ul>\n</li>\n</ul>\n\n<strong>How to Win?</strong>\n<ul>\n<li>Highest points = Winner</li>\n<li>In case of a tie → Sudden Death Question</li>\n</ul>",
+                            "text": "<strong>Schedule:</strong> <ul>\n<li>Slot 1: 11:00 AM - 12:00 PM</li>\n<li>Slot 2: 1:30 PM - 2:30 PM</li>\n</p>\n\n<p><strong>Overview:</strong><p>An anime-themed quiz competition featuring four exciting rounds.</p>\n\n\n\n<strong>Team Structure:</strong>\n<ul>\n<li>2-3 members per team</li>\n<li>Solo players allowed (for the brave otakus!)</li>\n</ul>\n\n<strong>Time Duration:</strong> 45-60 minutes\n\n<strong>Rules & Gameplay:</strong>\n<ul>\n<li><strong>Round 1: Who’s That Character? (Picture Round)</strong>\n<ul>\n<li>Teams guess the anime character from a blurry/silhouette image.</li>\n<li>Faster answers earn bonus points!</li>\n</ul>\n</li>\n<li><strong>Round 2: OP & ED Madness! (Music Round)</strong>\n<ul>\n<li>Listen to 5-10 seconds of an anime opening/ending.</li>\n<li>Guess the anime (extra points for song & artist name)!</li>\n</ul>\n</li>\n<li><strong>Round 3: Fact or Cap? (True or False)</strong>\n<ul>\n<li>A fun round with weird, mind-blowing anime \"facts.\"</li>\n<li>Teams answer TRUE or FALSE before the timer runs out!</li>\n</ul>\n</li>\n<li><strong>Round 4: Showdown! (Buzzer Round)</strong>\n<ul>\n<li>Fast-paced rapid-fire questions.</li>\n<li>Teams hit the buzzer to answer first!</li>\n<li>Wrong answers = -1 point penalty</li>\n</ul>\n</li>\n</ul>\n\n<strong>How to Win?</strong>\n<ul>\n<li>Highest points = Winner</li>\n<li>In case of a tie → Sudden Death Question</li>\n</ul>",
                             "tags": ["Anime", "Quiz", "Trivia", "Competition", "Otaku"]
                         }
                     }
@@ -212,11 +194,12 @@
                         "start": "TBD",
                         "end": "TBD"
                     },"value":"https://forms.gle/hrL4soGXnvrTgL4h8",
+                    "links":[{"href":"./Auction-Arena-Rules.pdf"}],
                     "locales": {
                         "en": {
                             "title": "**AUCTION** ARENA",
                             "info": "A strategic team-based IPL auction game with quiz, bidding, and squad formation.",
-                            "text": "<p><strong>Round 1: IPL Quiz</strong></p>\n\n<ul>\n<li>25 IPL-related questions.</li>\n<li>Top performers advance to Round 2.</li>\n</ul>\n\n<p><strong>Round 2: Team Formation & Auction</strong></p>\n\n<ul>\n<li>Teams of 3 members.</li>\n<li>Each team selects a leader and draws a random team name.</li>\n</ul>\n\n<p><strong>Squad Composition</strong></p>\n\n<ul>\n<li>11 players + 1 impact player.</li>\n<li>Max 4 overseas players.</li>\n<li>Role-specific limits: 4 batsmen, 4 bowlers, 3 all-rounders, 2 wicketkeepers.</li>\n</ul>\n\n<p><strong>Auction Rules</strong></p>\n\n<ul>\n<li>Each team gets ₹60 crore.</li>\n<li>Player base prices: ₹2 crore (Overseas), Varies (Capped Indian), ₹25 lakh (Uncapped Indian).</li>\n<li>Bid increments: ₹25 lakh up to ₹10 crore, ₹50 lakh beyond ₹10 crore.</li>\n<li>Once funds are exhausted, no more bids allowed.</li>\n</ul>\n\n<p><strong>Golden Ticket Rule</strong></p>\n\n<ul>\n<li>Each team gets one Golden Ticket.</li>\n<li>Freezes a bid, making it final.</li>\n<li>One-time use per team.</li>\n</ul>\n\n<p><strong>RTM Card Rule</strong></p>\n\n<ul>\n<li>Each team gets one RTM card.</li>\n<li>Allows matching the highest bid for a previously owned player.</li>\n<li>If used, the team retains the player at the matched price.</li>\n</ul>\n\n<p><strong>Final Scoring & Transparency</strong></p>\n\n<ul>\n<li>Final scores calculated based on player performance stats.</li>\n<li>A password-protected PDF with scores will be shared in the WhatsApp group.</li>\n<li>Teams verify results before finalizing winners.</li>\n<li>Highest-scoring team wins.</li>\n</ul>",
+                            "text": "<strong>Schedule:</strong> <ul>\n<li>Starts from 10:00 AM</li>\n</p>\n\n<p><strong>Overview:</strong><p><strong>Round 1: IPL Quiz</strong></p>\n\n<ul>\n<li>25 IPL-related questions.</li>\n<li>Top performers advance to Round 2.</li>\n</ul>\n\n<p><strong>Round 2: Team Formation & Auction</strong></p>\n\n<ul>\n<li>Teams of 3 members.</li>\n<li>Each team selects a leader and draws a random team name.</li>\n</ul>\n\n<p><strong>Squad Composition</strong></p>\n\n<ul>\n<li>11 players + 1 impact player.</li>\n<li>Max 4 overseas players.</li>\n<li>Role-specific limits: 4 batsmen, 4 bowlers, 3 all-rounders, 2 wicketkeepers.</li>\n</ul>\n\n<p><strong>Auction Rules</strong></p>\n\n<ul>\n<li>Each team gets ₹60 crore.</li>\n<li>Player base prices: ₹2 crore (Overseas), Varies (Capped Indian), ₹25 lakh (Uncapped Indian).</li>\n<li>Bid increments: ₹25 lakh up to ₹10 crore, ₹50 lakh beyond ₹10 crore.</li>\n<li>Once funds are exhausted, no more bids allowed.</li>\n</ul>\n\n<p><strong>Golden Ticket Rule</strong></p>\n\n<ul>\n<li>Each team gets one Golden Ticket.</li>\n<li>Freezes a bid, making it final.</li>\n<li>One-time use per team.</li>\n</ul>\n\n<p><strong>RTM Card Rule</strong></p>\n\n<ul>\n<li>Each team gets one RTM card.</li>\n<li>Allows matching the highest bid for a previously owned player.</li>\n<li>If used, the team retains the player at the matched price.</li>\n</ul>\n\n<p><strong>Final Scoring & Transparency</strong></p>\n\n<ul>\n<li>Final scores calculated based on player performance stats.</li>\n<li>A password-protected PDF with scores will be shared in the WhatsApp group.</li>\n<li>Teams verify results before finalizing winners.</li>\n<li>Highest-scoring team wins.</li>\n</ul>",
                             "tags": ["Cricket", "Strategy", "Teamwork", "Auction", "Competition"]
                         }
                     }

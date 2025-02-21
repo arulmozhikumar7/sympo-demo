@@ -4,24 +4,6 @@
             "title": "Technical events",
             "title_long_prefix": "",
             "title_long": "**Technical** Events"
-        },
-
-        "es": {
-            "title": "Experiencia",
-            "title_long_prefix": "Resumen de mi",
-            "title_long": "Experiencia **Laboral**"
-        },
-
-        "fr": {
-            "title": "Expérience",
-            "title_long_prefix": "Résumé de mon",
-            "title_long": "Parcours **Professionel**"
-        },
-
-        "ko": {
-            "title": "경험",
-            "title_long_prefix": "이것은 내",
-            "title_long": "**직업적** 경험"
         }
     },
 
@@ -45,17 +27,17 @@
                             "fill": null
                         }
                     },
-                    "dates": {
-                        "start": "TBD",
-                        "end": "TBD"
+                   "dates": {
+                        "start": "",
+                        "end": ""
                     },
-                    "value":"https://forms.gle/hrL4soGXnvrTgL4h8",
+                    "value":"https://forms.gle/hrL4soGXnvrTgL4h8", "links":[{"href":"./Prompt_Arena_Details.pdf"}],
                     "locales": {
                         "en": {
                             "title": "The **Prompt** Arena",
                             "info": "AI Prompt Engineering Competition",
                             "href":"https://forms.gle/hrL4soGXnvrTgL4h8",
-                            "text": "<p>A fun and challenging competition to test your AI prompt engineering skills across three exciting rounds.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1:</strong> Guess the Prompt – Generate an image matching a given one.</li>\n<li><strong>Round 2:</strong> Prompt Crossword – Solve AI-generated crossword clues.</li>\n<li><strong>Round 3:</strong> Prompt the chatbot to reveal its password.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Individual registration (Max team size: 2)</li>\n<li>Timed rounds (Total duration: 35 mins)</li>\n<li>Highest total score wins</li>\n<li>Judges' decisions are final</li>\n</ul>",
+                            "text": "<p><strong>Schedule:</strong> <ul>\n<li>Slot 1: 11:30 AM - 12:30 PM</li>\n<li>Slot 2: 1:30 AM - 2:30 PM</li>\n</p>\n\n<p><strong>Overview:</strong> The Prompt Arena is a fun and challenging competition to test your AI prompt engineering skills across three exciting rounds.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1:</strong> Guess the Prompt – Generate an image matching a given one.</li>\n<li><strong>Round 2:</strong> Prompt Crossword – Solve AI-generated crossword clues.</li>\n<li><strong>Round 3:</strong> Prompt the chatbot to reveal its password.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Individual registration (Max team size: 2)</li>\n<li>Timed rounds (Total duration: 35 mins)</li>\n<li>Highest total score wins</li>\n<li>Judges' decisions are final</li>\n</ul>",
                             "tags": ["AI", "Prompt Engineering", "Crossword", "Chatbot", "Competition"]
                         }
                     }
@@ -76,13 +58,13 @@
                     "dates": {
                         "start": "TBD",
                         "end": "TBD"
-                    },
+                    }, "links":[{"href":"./Fix-the-Glitch-Details.pdf"}],
                     "locales": {
                         "en": {
                             "title": "FIX THE **GLITCH**",
                             "info": "Debugging Competition",
                             "href":"https://forms.gle/hrL4soGXnvrTgL4h8",
-                            "text": "<p>A competitive debugging event where participants must fix buggy code and ensure all test cases pass.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1:</strong> Debug multiple problems; participants with the highest score advance.</li>\n<li><strong>Final Round:</strong> Solve problems quickly and efficiently; the fastest optimized solution wins.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Individual event (No teams)</li>\n<li>Participants must have an active HackerRank profile</li>\n<li>Plagiarism or external help leads to disqualification</li>\n<li>In case of a tie, execution time and code efficiency will be considered</li>\n</ul>\n\n<strong>Duration:</strong>\n<ul>\n<li>Round 1: 30 mins</li>\n<li>Round 2: 45 mins</li>\n<li>Total: 1 hr 30 mins</li>\n</ul>",
+                            "text": "<strong>Schedule:</strong> <ul>\n<li>Round 1: 10:00 AM - 11:10 AM</li>\n<li>Round 2: 1:00 PM - 1:45 PM</li>\n</p>\n\n<p><strong>Overview:</strong><p>A competitive debugging event where participants must fix buggy code and ensure all test cases pass.</p>\n\n<strong>Format:</strong>\n<ul>\n<li><strong>Round 1:</strong> Debug multiple problems; participants with the highest score advance.</li>\n<li><strong>Final Round:</strong> Solve problems quickly and efficiently; the fastest optimized solution wins.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Individual event (No teams)</li>\n<li>Participants must have an active HackerRank profile</li>\n<li>Plagiarism or external help leads to disqualification</li>\n<li>In case of a tie, execution time and code efficiency will be considered</li>\n</ul>\n\n<strong>Duration:</strong>\n<ul>\n<li>Round 1: 30 mins</li>\n<li>Round 2: 45 mins</li>\n<li>Total: 1 hr 30 mins</li>\n</ul>",
                             "tags": ["Debugging", "Coding", "HackerRank", "Competition"]
                         }
                     }
@@ -101,13 +83,13 @@
                     "dates": {
                         "start": "TBD",
                         "end": "TBD"
-                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8",
+                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8", "links":[{"href":"./Code-Relay-Details.pdf"}],
                     "locales": {
                         "en": {
                             "title": "**Code** Relay",
                             "info": "A Collaborative Coding Challenge",
                             "href":"https://forms.gle/hrL4soGXnvrTgL4h8",
-                            "text": "<p>A thrilling team-based coding event that tests coordination, problem-solving, and coding efficiency.</p>\n\n<strong>Format:</strong>\n<ul>\n<li>Teams of 3 participants.</li>\n<li><strong>Round 1 (Easy - 30 min):</strong> Each participant codes for 10 minutes on a simpler problem.</li>\n<li><strong>Round 2 (Advanced - 45 min):</strong> 15 minutes discussion, then 10 minutes per participant for a complex problem.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Participants rotate coding in a set order.</li>\n<li>No editing of previous work once a turn is over.</li>\n<li>Only one participant codes at a time; another observes silently, and the third faces away.</li>\n<li>Code must be functional, efficient, and well-documented.</li>\n<li>No external resources (Google, ChatGPT, etc.).</li>\n<li>Only one programming language is allowed (e.g., Python, C++, Java).</li>\n<li>Participants can communicate only through code comments.</li>\n<li>Hardcoded solutions are not allowed; the code must be scalable and dynamic.</li>\n<li>Failure to comply with rules results in disqualification.</li>\n</ul>",
+                            "text": "<strong>Schedule:</strong> <ul>\n<li>Round 1: 11:00 AM - 12:00 AM</li>\n<li>Round 2: 1:30 PM - 2:30 PM</li>\n</p>\n\n<p><strong>Overview:</strong><p>A thrilling team-based coding event that tests coordination, problem-solving, and coding efficiency.</p>\n\n<strong>Format:</strong>\n<ul>\n<li>Teams of 3 participants.</li>\n<li><strong>Round 1 (Easy - 30 min):</strong> Each participant codes for 10 minutes on a simpler problem.</li>\n<li><strong>Round 2 (Advanced - 45 min):</strong> 15 minutes discussion, then 10 minutes per participant for a complex problem.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Participants rotate coding in a set order.</li>\n<li>No editing of previous work once a turn is over.</li>\n<li>Only one participant codes at a time; another observes silently, and the third faces away.</li>\n<li>Code must be functional, efficient, and well-documented.</li>\n<li>No external resources (Google, ChatGPT, etc.).</li>\n<li>Only one programming language is allowed (e.g., Python, C++, Java).</li>\n<li>Participants can communicate only through code comments.</li>\n<li>Hardcoded solutions are not allowed; the code must be scalable and dynamic.</li>\n<li>Failure to comply with rules results in disqualification.</li>\n</ul>",
                             "tags": ["Coding", "Teamwork", "Relay", "Problem Solving", "Optimization"]
                         }
                     }
@@ -127,12 +109,13 @@
                         "start": "TBD",
                         "end": "TBD"
                     },"value":"https://forms.gle/hrL4soGXnvrTgL4h8",
+                    "links":[{"href":"./Pixel-Perfect-Details.pdf"}],
                     "locales": {
                         "en": {
                             "title": "Pixel Perfect",
                             "info": "UI/UX Design Challenge",
                             "href":"https://forms.gle/hrL4soGXnvrTgL4h8",
-                            "text": "<p>A team-based UI/UX design competition that tests creativity, problem-solving, and design skills.</p>\n\n<strong>Format:</strong>\n<ul>\n<li>Teams of 2 participants.</li>\n<li><strong>Round 1 (30 min):</strong> Live quiz; top-scoring teams advance to the final round.</li>\n<li><strong>Final Round (60 min):</strong> Design based on a given theme or real-world UI/UX problem.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Plagiarism or external help leads to disqualification.</li>\n<li>Teams must register before the deadline.</li>\n<li>Only Figma is allowed; Canva is not permitted.</li>\n<li>Submissions must include wireframes & prototypes (low/high fidelity) in PDF or Figma link format.</li>\n</ul>\n\n<strong>Judging Criteria:</strong>\n<ul>\n<li>User Experience & Usability (30%)</li>\n<li>Visual Design & Creativity (25%)</li>\n<li>Problem-Solving & Innovation (25%)</li>\n<li>Presentation (20%)</li>\n</ul>\n\n<strong>Estimated Duration:</strong>\n<ul>\n<li>Round 1: 30 minutes</li>\n<li>Round 2: 60 minutes</li>\n<li><strong>Total Duration:</strong> 1 hour 30 minutes</li>\n</ul>",
+                            "text": "<p><strong>Schedule:</strong> <ul>\n<li>Round 1: 10:00 AM - 11:30 AM</li>\n<li>Round 2: 1:00 PM - 2:00 PM</li>\n</p>\n\n<p><strong>Overview:</strong> A team-based UI/UX design competition that tests creativity, problem-solving, and design skills.</p>\n\n<strong>Format:</strong>\n<ul>\n<li>Teams of 2 participants.</li>\n<li><strong>Round 1 (30 min):</strong> Live quiz; top-scoring teams advance to the final round.</li>\n<li><strong>Final Round (60 min):</strong> Design based on a given theme or real-world UI/UX problem.</li>\n</ul>\n\n<strong>Rules:</strong>\n<ul>\n<li>Plagiarism or external help leads to disqualification.</li>\n<li>Teams must register before the deadline.</li>\n<li>Only Figma is allowed; Canva is not permitted.</li>\n<li>Submissions must include wireframes & prototypes (low/high fidelity) in PDF or Figma link format.</li>\n</ul>\n\n<strong>Judging Criteria:</strong>\n<ul>\n<li>User Experience & Usability (30%)</li>\n<li>Visual Design & Creativity (25%)</li>\n<li>Problem-Solving & Innovation (25%)</li>\n<li>Presentation (20%)</li>\n</ul>\n\n<strong>Estimated Duration:</strong>\n<ul>\n<li>Round 1: 30 minutes</li>\n<li>Round 2: 60 minutes</li>\n<li><strong>Total Duration:</strong> 1 hour 30 minutes</li>\n</ul>",
                             "tags": ["Design", "UI/UX", "Creativity", "Figma", "Innovation"]
                         }
                     }

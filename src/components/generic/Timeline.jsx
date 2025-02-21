@@ -66,24 +66,26 @@ function TimelineItem({ item }) {
                         <a href={item.value} target="_blank" rel="noopener noreferrer">
                             <InfoBadge iconName="" text="Register Now" />
                         </a>
+                        
                     </div>
                 </header>
 
                 {/* HIDDEN BY DEFAULT - Only shown when expanded */}
                 {expanded && (
-                    <div className="timeline-content-body mb-1 mb-md-2">
+                   <> <div className="timeline-content-body mb-1 mb-md-2">
                         <div className="text" dangerouslySetInnerHTML={{ __html: utils.parseJsonText(item.text) }} />
 
                         {item.tags && item.tags.length > 0 && (
                             <Tags strings={item.tags} className="text-2 mt-3 pt-0 pt-md-1" />
                         )}
                     </div>
+                  <a href={item.firstLink?.href} target="_blank" rel="noopener noreferrer"><InfoBadge text={"Rulebook"}/></a>  &nbsp; </>
                 )}
-
-                {/* Show Details Button */}
+               
+                {/* Show etails Button */}
                 <button style={{ all: "unset", cursor: "pointer" }} onClick={() => setExpanded(!expanded)}>
     {expanded ?<InfoBadge text="Hide Details"/> : <InfoBadge iconName="" text="Event Details" />}
-</button>
+                </button>
 
 
             </div>
