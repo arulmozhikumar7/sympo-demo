@@ -28,12 +28,22 @@
                 {
                     "value": "Velammal Engineering College",    
                     "links": [
+                        {"href": "https://maps.app.goo.gl/m61nE8hpWstthEfM6"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-graduation-cap",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },{
+                    "value":"March 15th, 2025",
+                    "links": [
                         {"href": null}
                     ],
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-city",
-                        "faColors": {"bg": null, "fill": null}
+                        "fa": "fa-solid fa-calendar",
+                        "faColors": {"bg": null, "fill":"ffffff"}
                     }
                 },
                 {

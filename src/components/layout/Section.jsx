@@ -180,7 +180,8 @@ function SectionContent({ articles }) {
 
     return (
         <div className={`section-content ${shouldAddSpacerAfterTitle ? 'mt-md-5' : ''}`}>
-            {articles.map((article, key) => {
+            {articles.map((article, key) => 
+            {
                 const Component = ARTICLES[article.component]
                 let mtClass = `mt-4 pt-1 pt-md-3`
                 if (article.config?.ignorePaddingTop)
@@ -197,9 +198,20 @@ function SectionContent({ articles }) {
                                 Component <strong>{article.component}</strong> not found! Make sure the component exists and is listed on the <i>ARTICLES</i> dictionary on <b>Section.jsx</b>.
                             </div>
                         )}
+                      {key === 1 &&(<div className="flex justify-center items-center">
+                    <iframe
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15540.783435972458!2d80.1733791317028!3d13.15004234162027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5264a10c856599%3A0xac3348f41097ba7f!2sVelammal%20Engineering%20College!5e0!3m2!1sen!2sin!4v1740116319490!5m2!1sen!2sin"
+                      width="100%"
+                      height="450"
+                      style={{ border: 0 }}
+                      allowFullScreen
+                      loading="lazy"
+                      referrerPolicy="no-referrer-when-downgrade"
+                    ></iframe>
+                  </div>)}
                     </div>
                 )
-            })}
+                 })} 
         </div>
     )
 }
