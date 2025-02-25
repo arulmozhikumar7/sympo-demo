@@ -38,8 +38,32 @@
                             "tags": ["Gaming", "Battle Royale", "Clash Squad", "Esports", "Competition"]
                         }
                     }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/meme.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "TBD",
+                        "end": "TBD"
+                    },
+                    "value": "https://forms.gle/C425JF2cQMzCWTHA7",
+                    "links": [{"href": "./meme.pdf"}],
+                    "locales": {
+                        "en": {
+                            "title": "**MEME** CREATION ",
+                            "info": "Online Meme Creation",
+                            "text": "<p>A creative meme-making competition featuring a Buzzer Round and a Creation Round.</p>\n\n<strong>Category:</strong> Individual\n\n<strong>Schedule:</strong>\n<ul>\n<li><strong>Round 1: Buzzer Round</strong> - 09:00 AM – 10:00 PM IST (Online)</li>\n<li><strong>Round 2: Creation Round</strong> - 09:00 AM – 10:00 PM IST (Online)</li>\n</ul>\n\n<strong>Rules & Gameplay:</strong>\n<ul>\n<li><strong>Round 1: Buzzer Round</strong>\n<ul>\n<li>Platform: Online G-meeting</li>\n<li>Participants must identify meme templates within a given time.</li>\n<li>Quick responses earn points; incorrect answers may result in negative marking.</li>\n<li>Participants with the highest scores qualify for Round 2.</li>\n</ul>\n</li>\n<li><strong>Round 2: Creation Round</strong>\n<ul>\n<li>Platform: Online G-meeting</li>\n<li>Participants select a provided topic and create a meme using given templates.</li>\n<li>Memes must be original; pre-existing content or AI-generated memes are not allowed.</li>\n<li>Submission Formats: JPEG, PNG, GIF.</li>\n<li>Only one entry per participant; multiple submissions lead to disqualification.</li>\n<li>Late submissions will not be accepted.</li>\n</ul>\n</li>\n</ul>\n\n<strong>Rules and Regulations:</strong>\n<ul>\n<li><strong>Content Guidelines:</strong>\n<ul>\n<li>Memes must be free from offensive, inappropriate, or controversial elements.</li>\n<li>No hate speech, discrimination, political bias, or explicit content.</li>\n<li>Memes must maintain a respectful and lighthearted tone.</li>\n<li>Use of copyrighted images without attribution is not allowed.</li>\n</ul>\n</li>\n<li><strong>Tools & Creation Methods:</strong>\n<ul>\n<li>Participants may use any online meme generator, graphic design software, or image editing tool.</li>\n<li>AI-generated memes are strictly prohibited.</li>\n<li>Popular meme templates may be used, but must include a creative twist.</li>\n</ul>\n</li>\n<li><strong>Plagiarism & Fair Play:</strong>\n<ul>\n<li>All memes must be original; copying existing content without modification is not allowed.</li>\n<li>Collaboration is prohibited; each meme must be an individual effort.</li>\n</ul>\n</li>\n<li><strong>Rights & Usage:</strong>\n<ul>\n<li>By submitting, participants grant event organizers permission to use and display their memes with due credit.</li>\n<li>Organizers reserve the right to exclude non-compliant entries.</li>\n</ul>\n</li>\n<li><strong>Code of Conduct:</strong>\n<ul>\n<li>Participants must uphold fair competition and respect fellow competitors.</li>\n<li>Any manipulation, cheating, or rule violations will lead to disqualification.</li>\n</ul>\n</li>\n</ul>\n\n<strong>Judging Criteria:</strong>\n<ul>\n<li>Creativity – Uniqueness of the meme and originality of the concept.</li>\n<li>Humor – How effectively the meme delivers humor in an engaging way.</li>\n<li>Relevance to Topic – How well the meme aligns with the competition theme.</li>\n<li>The decision of the judges is final. No disputes or appeals will be entertained.</li>\n</ul>\n\n",
+                            "tags": ["Meme", "Competition", "Creativity", "Online Event", "Fun"]
+                        }
+                    }
                 }
-                
+                 
                 ,
                 {
                     "icon": {
