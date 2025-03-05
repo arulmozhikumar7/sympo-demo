@@ -92,3 +92,15 @@ div.lead-section-content {
         transition: 0.4s transform ease-in-out;
     }
 }
+
+.image-poster{
+    padding: 50px;
+
+    @media (max-width : 768px) {
+        padding: 30px;        
+    }
+
+    @media (max-width : 460px) {
+        padding: 0;        
+    }
+}

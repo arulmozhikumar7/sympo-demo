@@ -23,6 +23,7 @@ import FaIcon from "/src/components/generic/FaIcon.jsx"
 import { useWindow } from "/src/providers/WindowProvider.jsx"
 import { useScheduler } from "/src/helpers/scheduler.js"
 import SympoLogo from "../widgets/Logo3d"
+import ImageView from "../generic/ImageView"
 
 const TransitionClasses = {
     HIDDEN: 'section-transition-hidden',
@@ -199,6 +200,13 @@ function SectionContent({ articles }) {
                             </div>
                         )}
                       {key === 1 &&(<div className="flex justify-center items-center">
+                      <div className="image-poster">
+                      <ImageView
+                        className={"w-[50%]"}
+                        alt={"poster"}
+                        src={"poster.png"}
+                      />
+                      </div>
                     <iframe
                       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15540.783435972458!2d80.1733791317028!3d13.15004234162027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5264a10c856599%3A0xac3348f41097ba7f!2sVelammal%20Engineering%20College!5e0!3m2!1sen!2sin!4v1740116319490!5m2!1sen!2sin"
                       width="100%"
