@@ -10,7 +10,7 @@ import GalleryModal from "/src/components/modals/GalleryModal.jsx"
 import Notifications from "/src/components/feedbacks/Notifications.jsx"
 import ConfirmationWindow from "/src/components/modals/ConfirmationWindow.jsx"
 import {useFeedbacks} from "/src/providers/FeedbacksProvider.jsx"
-
+import { Analytics } from "@vercel/analytics/react"
 function App() {
     const {listImagesForCache} = useData()
 
@@ -21,6 +21,7 @@ function App() {
             <AppFeedbacks/>
             <ImageCache urls={imageList}/>
             <Portfolio/>
+            <Analytics />
         </div>
     )
 }
