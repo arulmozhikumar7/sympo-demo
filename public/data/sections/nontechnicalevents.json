@@ -16,55 +16,7 @@
 
             "items": [
                 
-                {
-                    "icon": {
-                        "img": "images/pictures/freefire.png",
-                        "fa": "",
-                        "faColors": {
-                            "bg": null,
-                            "fill": null
-                        }
-                    },
-                    "dates": {
-                        "start": "TBD",
-                        "end": "TBD"
-                    },
-                    "value":"https://forms.gle/C425JF2cQMzCWTHA7", "links":[{"href":"./Free-Fire-Rules.pdf"}],
-                    "locales": {
-                        "en": {
-                            "title": "CLASH OF **RADIANTS**",
-                            "info": "Free Fire",
-                            "text": "<p>A competitive Free Fire tournament featuring Battle Royale and Clash Squad modes.</p>\n\n<strong>Game Format:</strong>\n<ul>\n<li><strong>Round 1: Battle Royale</strong> (3 Matches – Bermuda, Kalahari, Purgatory)\n<ul>\n<li>Top 4 teams qualify for Round 2.</li>\n</ul>\n</li>\n<li><strong>Round 2: Clash Squad</strong> (Best of 3)\n<ul>\n<li>Top 4 teams compete (1st vs 4th, 2nd vs 3rd).</li>\n<li>Winners advance to the Finals.</li>\n</ul>\n</li>\n<li><strong>Finals: Clash Squad</strong> (Best of 3)\n<ul>\n<li>Winner is declared.</li>\n</ul>\n</li>\n</ul>\n\n<strong>Rules & Regulations:</strong>\n<ul>\n<li><strong>Eligibility:</strong> Minimum Level 20</li>\n<li><strong>Fair Play:</strong>\n<ul>\n<li>No VPN & No PC Players</li>\n<li>Gun Attributes OFF</li>\n<li>Character Skills & Loadouts OFF (CS Mode)</li>\n</ul>\n</li>\n<li><strong>Restricted Weapons & Items (Clash Squad Mode):</strong>\n<ul>\n<li>No Double Vector</li>\n<li>No Grenades & Throwables</li>\n</ul>\n</li>\n<li><strong>General Restrictions:</strong>\n<ul>\n<li>No Teaming Up in Battle Royale Mode</li>\n<li>Hacks/Cheats = Entire Team Disqualified</li>\n</ul>\n</li>\n</ul>",
-                            "tags": ["Gaming", "Battle Royale", "Clash Squad", "Esports", "Competition"]
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": "images/pictures/meme.png",
-                        "fa": "",
-                        "faColors": {
-                            "bg": null,
-                            "fill": null
-                        }
-                    },
-                    "dates": {
-                        "start": "TBD",
-                        "end": "TBD"
-                    },
-                    "value": "https://forms.gle/C425JF2cQMzCWTHA7",
-                    "links": [{"href": "./meme.pdf"}],
-                    "locales": {
-                        "en": {
-                            "title": "**MEME** CREATION ",
-                            "info": "Online Meme Creation",
-                            "text": "<p>A creative meme-making competition featuring a Buzzer Round and a Creation Round.</p>\n\n<strong>Category:</strong> Individual\n\n<strong>Schedule:</strong>\n<ul>\n<li><strong>Round 1: Buzzer Round</strong> - 09:00 AM – 10:00 PM IST (Online)</li>\n<li><strong>Round 2: Creation Round</strong> - 09:00 AM – 10:00 PM IST (Online)</li>\n</ul>\n\n<strong>Rules & Gameplay:</strong>\n<ul>\n<li><strong>Round 1: Buzzer Round</strong>\n<ul>\n<li>Platform: Online G-meeting</li>\n<li>Participants must identify meme templates within a given time.</li>\n<li>Quick responses earn points; incorrect answers may result in negative marking.</li>\n<li>Participants with the highest scores qualify for Round 2.</li>\n</ul>\n</li>\n<li><strong>Round 2: Creation Round</strong>\n<ul>\n<li>Platform: Online G-meeting</li>\n<li>Participants select a provided topic and create a meme using given templates.</li>\n<li>Memes must be original; pre-existing content or AI-generated memes are not allowed.</li>\n<li>Submission Formats: JPEG, PNG, GIF.</li>\n<li>Only one entry per participant; multiple submissions lead to disqualification.</li>\n<li>Late submissions will not be accepted.</li>\n</ul>\n</li>\n</ul>\n\n<strong>Rules and Regulations:</strong>\n<ul>\n<li><strong>Content Guidelines:</strong>\n<ul>\n<li>Memes must be free from offensive, inappropriate, or controversial elements.</li>\n<li>No hate speech, discrimination, political bias, or explicit content.</li>\n<li>Memes must maintain a respectful and lighthearted tone.</li>\n<li>Use of copyrighted images without attribution is not allowed.</li>\n</ul>\n</li>\n<li><strong>Tools & Creation Methods:</strong>\n<ul>\n<li>Participants may use any online meme generator, graphic design software, or image editing tool.</li>\n<li>AI-generated memes are strictly prohibited.</li>\n<li>Popular meme templates may be used, but must include a creative twist.</li>\n</ul>\n</li>\n<li><strong>Plagiarism & Fair Play:</strong>\n<ul>\n<li>All memes must be original; copying existing content without modification is not allowed.</li>\n<li>Collaboration is prohibited; each meme must be an individual effort.</li>\n</ul>\n</li>\n<li><strong>Rights & Usage:</strong>\n<ul>\n<li>By submitting, participants grant event organizers permission to use and display their memes with due credit.</li>\n<li>Organizers reserve the right to exclude non-compliant entries.</li>\n</ul>\n</li>\n<li><strong>Code of Conduct:</strong>\n<ul>\n<li>Participants must uphold fair competition and respect fellow competitors.</li>\n<li>Any manipulation, cheating, or rule violations will lead to disqualification.</li>\n</ul>\n</li>\n</ul>\n\n<strong>Judging Criteria:</strong>\n<ul>\n<li>Creativity – Uniqueness of the meme and originality of the concept.</li>\n<li>Humor – How effectively the meme delivers humor in an engaging way.</li>\n<li>Relevance to Topic – How well the meme aligns with the competition theme.</li>\n<li>The decision of the judges is final. No disputes or appeals will be entertained.</li>\n</ul>\n\n",
-                            "tags": ["Meme", "Competition", "Creativity", "Online Event", "Fun"]
-                        }
-                    }
-                }
-                 
-                ,
+                
                 {
                     "icon": {
                         "img": "images/pictures/bgmi.png",
@@ -88,28 +40,8 @@
                         }
                     }
                 }
-                ,     {
-                    "icon": {
-                        "img": "images/pictures/valorant.png",
-                        "fa": "",
-                        "faColors": {
-                            "bg": null,
-                            "fill": null
-                        }
-                    },
-                    "dates": {
-                        "start": "12/01/2022",
-                        "end": "now"
-                    },"value":"https://forms.gle/C425JF2cQMzCWTHA7", "links":[{"href":"./Valorant-Rules.pdf"}],
-                    "locales": {
-                        "en": {
-                            "title": "CLASH OF **RADIANTS**",
-                            "info": "Valorant",
-                            "text": "<strong>Schedule:</strong> <ul>\n<li>Starts from 10:00 AM</li>\n</p>\n<p><strong>Overview:</strong><p>Step into the world of Valorant, the ultimate tactical shooter where precision and strategy determine the victor! Compete in intense 2v2 Swift Play matches, showcase your skills, and advance through the brackets.</p><ul><li>Use your own devices as the event is held online</li><li>Any rank can participate</li><li>Game mode: Swift Play</li><li>Teams of 2 players allowed</li><li>If a team member withdraws or is unavailable, the team is disqualified</li><li>First team to win 5 out of 9 rounds wins the match</li><li>Defeated teams are eliminated and cannot re-enter</li><li>Winning teams advance to the next bracket</li><li>No cheats or hacks allowed – Fair play is mandatory</li><li>Only one site is executable, and players must adhere to pre-match rules</li></p>",
-                            "tags": ["Team - 2 Players", "Swift Play", "Online Tournament", "No Cheats", "Bracket Elimination"]
-                        }
-                    }
-                },
+                , 
+                    
                 {
                     "icon": {
                         "img": "images/pictures/amongus.png",
