@@ -64,7 +64,7 @@ function TimelineItem({ item }) {
 
                     <div className="timeline-content-header-right">
                         <a href={item.value} target="_blank" rel="noopener noreferrer">
-                            <InfoBadge iconName="" text="Register Now" />
+                       {   item.value ==="" ? <InfoBadge text="Slots Over" /> :  <InfoBadge iconName="" text="Register Now" />}
                         </a>
                         
                     </div>
