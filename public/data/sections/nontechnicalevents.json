@@ -30,7 +30,7 @@
                         "start": "TBD",
                         "end": "TBD"
                     },
-                    "value":"https://forms.gle/hrL4soGXnvrTgL4h8", "links":[{"href":"./BGMI-Rules.pdf"}],
+                    "value":"", "links":[{"href":"./BGMI-Rules.pdf"}],
                     "locales": {
                         "en": {
                             "title": "Clash of **Radiants** (BGMI)",
@@ -48,7 +48,7 @@
                             "bg": null,
                             "fill": null
                         }
-                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8",
+                    },"value":"",
                     "dates": {
                         "start": "TBD",
                         "end": "TBD"
