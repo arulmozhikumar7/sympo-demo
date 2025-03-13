@@ -40,7 +40,29 @@
                         }
                     }
                 }
-                , 
+                , {
+                    "icon": {
+                        "img": "images/pictures/screen.webp",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8",
+                    "dates": {
+                        "start": "TBD",
+                        "end": "TBD"
+                    }, "links":[{"href":"./Screen-Geeks-Rules.pdf"}],
+                    "locales": {
+                        "en": {
+                            "title": "**Screen** Geeks!",
+                            "info": "Anime Quizz!",
+                            "text": "<strong>Schedule:</strong> <ul>\n<li>Slot 1: 11:00 AM - 12:00 PM</li>\n<li>Slot 2: 1:30 PM - 2:30 PM</li>\n</p>\n\n<p><strong>Overview:</strong><p>An anime-themed quiz competition featuring four exciting rounds.</p>\n\n\n\n<strong>Team Structure:</strong>\n<ul>\n<li>2-3 members per team</li>\n<li>Solo players allowed (for the brave otakus!)</li>\n</ul>\n\n<strong>Time Duration:</strong> 45-60 minutes\n\n<strong>Rules & Gameplay:</strong>\n<ul>\n<li><strong>Round 1: Who’s That Character? (Picture Round)</strong>\n<ul>\n<li>Teams guess the anime character from a blurry/silhouette image.</li>\n<li>Faster answers earn bonus points!</li>\n</ul>\n</li>\n<li><strong>Round 2: OP & ED Madness! (Music Round)</strong>\n<ul>\n<li>Listen to 5-10 seconds of an anime opening/ending.</li>\n<li>Guess the anime (extra points for song & artist name)!</li>\n</ul>\n</li>\n<li><strong>Round 3: Fact or Cap? (True or False)</strong>\n<ul>\n<li>A fun round with weird, mind-blowing anime \"facts.\"</li>\n<li>Teams answer TRUE or FALSE before the timer runs out!</li>\n</ul>\n</li>\n<li><strong>Round 4: Showdown! (Buzzer Round)</strong>\n<ul>\n<li>Fast-paced rapid-fire questions.</li>\n<li>Teams hit the buzzer to answer first!</li>\n<li>Wrong answers = -1 point penalty</li>\n</ul>\n</li>\n</ul>\n\n<strong>How to Win?</strong>\n<ul>\n<li>Highest points = Winner</li>\n<li>In case of a tie → Sudden Death Question</li>\n</ul>",
+                            "tags": ["Anime", "Quiz", "Trivia", "Competition", "Otaku"]
+                        }
+                    }
+                }
+,    
                     
                 {
                     "icon": {
@@ -54,7 +76,7 @@
                     "dates": {
                         "start": "TBD",
                         "end": "TBD"
-                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8", "links":[{"href":"./Crewmates-and-Conspiracies-Rules.pdf"}],
+                    },"value":"", "links":[{"href":"./Crewmates-and-Conspiracies-Rules.pdf"}],
                     "locales": {
                         "en": {
                             "title": "Crewmates and Conspiracies - **Among Us**",
@@ -105,7 +127,7 @@
                     "dates": {
                         "start": "TBD",
                         "end": "TBD"
-                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8", "links":[{"href":"./Sound-Check-Showdown-Rules.pdf"}],
+                    },"value":"", "links":[{"href":"./Sound-Check-Showdown-Rules.pdf"}],
                     "locales": {
                         "en": {
                             "title": "**Soundcheck** Showdown",
@@ -114,29 +136,8 @@
                             "tags": ["Music", "Guessing", "Lyrics", "Relay", "Competition"]
                         }
                     }
-                },{
-                    "icon": {
-                        "img": "images/pictures/screen.webp",
-                        "fa": "",
-                        "faColors": {
-                            "bg": null,
-                            "fill": null
-                        }
-                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8",
-                    "dates": {
-                        "start": "TBD",
-                        "end": "TBD"
-                    }, "links":[{"href":"./Screen-Geeks-Rules.pdf"}],
-                    "locales": {
-                        "en": {
-                            "title": "**Screen** Geeks!",
-                            "info": "Anime Quizz!",
-                            "text": "<strong>Schedule:</strong> <ul>\n<li>Slot 1: 11:00 AM - 12:00 PM</li>\n<li>Slot 2: 1:30 PM - 2:30 PM</li>\n</p>\n\n<p><strong>Overview:</strong><p>An anime-themed quiz competition featuring four exciting rounds.</p>\n\n\n\n<strong>Team Structure:</strong>\n<ul>\n<li>2-3 members per team</li>\n<li>Solo players allowed (for the brave otakus!)</li>\n</ul>\n\n<strong>Time Duration:</strong> 45-60 minutes\n\n<strong>Rules & Gameplay:</strong>\n<ul>\n<li><strong>Round 1: Who’s That Character? (Picture Round)</strong>\n<ul>\n<li>Teams guess the anime character from a blurry/silhouette image.</li>\n<li>Faster answers earn bonus points!</li>\n</ul>\n</li>\n<li><strong>Round 2: OP & ED Madness! (Music Round)</strong>\n<ul>\n<li>Listen to 5-10 seconds of an anime opening/ending.</li>\n<li>Guess the anime (extra points for song & artist name)!</li>\n</ul>\n</li>\n<li><strong>Round 3: Fact or Cap? (True or False)</strong>\n<ul>\n<li>A fun round with weird, mind-blowing anime \"facts.\"</li>\n<li>Teams answer TRUE or FALSE before the timer runs out!</li>\n</ul>\n</li>\n<li><strong>Round 4: Showdown! (Buzzer Round)</strong>\n<ul>\n<li>Fast-paced rapid-fire questions.</li>\n<li>Teams hit the buzzer to answer first!</li>\n<li>Wrong answers = -1 point penalty</li>\n</ul>\n</li>\n</ul>\n\n<strong>How to Win?</strong>\n<ul>\n<li>Highest points = Winner</li>\n<li>In case of a tie → Sudden Death Question</li>\n</ul>",
-                            "tags": ["Anime", "Quiz", "Trivia", "Competition", "Otaku"]
-                        }
-                    }
-                }
-,                
+                },
+                            
                 {
                     "icon": {
                         "img": "images/pictures/ipl.png",
@@ -149,7 +150,7 @@
                     "dates": {
                         "start": "TBD",
                         "end": "TBD"
-                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8",
+                    },"value":"",
                     "links":[{"href":"./Auction-Arena-Rules.pdf"}],
                     "locales": {
                         "en": {

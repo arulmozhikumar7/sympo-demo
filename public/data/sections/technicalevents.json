@@ -84,7 +84,7 @@
                     "dates": {
                         "start": "TBD",
                         "end": "TBD"
-                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8", "links":[{"href":"./Code-Relay-Details.pdf"}],
+                    },"value":"", "links":[{"href":"./Code-Relay-Details.pdf"}],
                     "locales": {
                         "en": {
                             "title": "**Code** Relay",
@@ -109,7 +109,7 @@
                     "dates": {
                         "start": "TBD",
                         "end": "TBD"
-                    },"value":"https://forms.gle/hrL4soGXnvrTgL4h8",
+                    },"value":"",
                     "links":[{"href":"./Pixel-Perfect-Details.pdf"}],
                     "locales": {
                         "en": {

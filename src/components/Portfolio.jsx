@@ -34,7 +34,7 @@ function Portfolio() {
     
             // Second toast after 2 more seconds
             setTimeout(() => {
-                toast.error('Registrations are now closed!', {
+                toast.info('BGMI registrations are live!', {
                     position: "top-right",
                     autoClose: 5000,
                     hideProgressBar: false,

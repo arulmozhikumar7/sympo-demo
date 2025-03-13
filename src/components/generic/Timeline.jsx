@@ -16,7 +16,7 @@ function Timeline({ items }) {
     useEffect(() => {
        console.log(items)
     }, [])
-    return (<> <p className="timeline-title  text-center text-danger fw-bold fs-4 mb-3">No Onspot Registrations..!</p>
+    return (<> <p className="timeline-title text-center text-danger fw-bold fs-4 mb-3">No Onspot Registrations..!</p>
         <div className="timeline-wrapper">
            
             <ul className="timeline">
@@ -64,9 +64,8 @@ function TimelineItem({ item }) {
                     </div>
 
                     <div className="timeline-content-header-right">
-                        <a >
-                      <InfoBadge text="Registrations Closed" /> 
-                        </a>
+                        {item.value ==="" ? <InfoBadge text="Registrations Closed" /> :<a href={item.value} target="_blank" rel="noopener noreferrer"> <InfoBadge text={"Register Now"} /></a>}
+                       
                         
                     </div>
                 </header>
