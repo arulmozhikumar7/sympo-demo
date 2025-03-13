@@ -12,6 +12,7 @@ import ConfirmationWindow from "/src/components/modals/ConfirmationWindow.jsx"
 import {useFeedbacks} from "/src/providers/FeedbacksProvider.jsx"
 import { Analytics } from "@vercel/analytics/react"
 import { SpeedInsights } from "@vercel/speed-insights/react"
+
 function App() {
     const {listImagesForCache} = useData()
 
@@ -24,6 +25,7 @@ function App() {
             <Portfolio/>
             <Analytics />
             <SpeedInsights />
+            
         </div>
     )
 }

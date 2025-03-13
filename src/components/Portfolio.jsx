@@ -7,6 +7,7 @@ import NavTabController from "/src/components/nav/mobile/NavTabController.jsx"
 import NavPillsFixed from "/src/components/nav/mobile/NavPillsFixed.jsx"
 import {useGlobalState} from "/src/providers/GlobalStateProvider.jsx"
 import {useUtils} from "/src/helpers/utils.js"
+import { toast,ToastContainer , Bounce} from "react-toastify"
 
 function Portfolio() {
     const {getActiveSection, setFixedNavigationEnabled} = useGlobalState()
@@ -17,7 +18,37 @@ function Portfolio() {
         if(utils.isTouchDevice() && utils.isAndroid()) {
             utils.addClassToBody('body-android')
         }
+    
+        setTimeout(() => {
+            toast.error('No onsite registrations!', {
+                position: "top-right",
+                autoClose: 5000,
+                hideProgressBar: false,
+                closeOnClick: false,
+                pauseOnHover: true,
+                draggable: true,
+                progress: undefined,
+                theme: "light",
+                transition: Bounce,
+            });
+    
+            // Second toast after 2 more seconds
+            setTimeout(() => {
+                toast.error('Registrations are now closed!', {
+                    position: "top-right",
+                    autoClose: 5000,
+                    hideProgressBar: false,
+                    closeOnClick: false,
+                    pauseOnHover: true,
+                    draggable: true,
+                    progress: undefined,
+                    theme: "light",
+                    transition: Bounce,
+                });
+            }, 2000); // Delay for second toast
+        }, 6000); // First toast after 2 seconds
     }, [])
+    
 
     /** Force scroll to top every time the active section changes... **/
     useEffect(() => {
@@ -57,6 +88,19 @@ function Portfolio() {
                     <NavTabController/>
                 </div>
             </div>
+            <ToastContainer
+position="top-right"
+autoClose={10000}
+hideProgressBar={false}
+newestOnTop={false}
+closeOnClick={false}
+rtl={false}
+pauseOnFocusLoss
+draggable
+pauseOnHover
+theme="light"
+transition={Bounce}
+/>
         </div>
     )
 }

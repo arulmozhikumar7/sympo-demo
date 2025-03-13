@@ -16,15 +16,16 @@ function Timeline({ items }) {
     useEffect(() => {
        console.log(items)
     }, [])
-    return (
+    return (<> <p className="timeline-title  text-center text-danger fw-bold fs-4 mb-3">No Onspot Registrations..!</p>
         <div className="timeline-wrapper">
+           
             <ul className="timeline">
                 {items.map((item, key) => (
                     <TimelineItem item={item} key={key} />
                 ))}
                 <TimelineTrailer />
             </ul>
-        </div>
+        </div></>
     )
 }
 
