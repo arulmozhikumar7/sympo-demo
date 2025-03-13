@@ -2,7 +2,7 @@
     "locales": {
         "en": {
             "title": "Non-tech events",
-            "title_long_prefix": "",
+            "title_long_prefix": "NO ONSPOT REGISTRATIONS",
             "title_long": "**Non-Technical** Events"
         }
     },

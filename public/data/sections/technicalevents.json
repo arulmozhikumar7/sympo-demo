@@ -2,8 +2,9 @@
     "locales": {
         "en": {
             "title": "Technical events",
-            "title_long_prefix": "",
+            "title_long_prefix": "NO ONSPOT REGISTRATIONS",
             "title_long": "**Technical** Events"
+
         }
     },
 
